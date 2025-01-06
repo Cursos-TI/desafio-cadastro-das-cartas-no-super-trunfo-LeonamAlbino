@@ -192,13 +192,13 @@ int main() {
 
         printf("AGORA MOSTRAREMOS SUAS CARTA!!!\n+++++++++++++++++++++++++++++\n\n");
 
-        printf("nome do estado: %s  ----  nome da cidade: %s\n população: %d \n area em km2: %f \n seu PIB: %f\n numero de pontos turisticos: %d \n+++++++++++++++++++++++++++++\n\n",nomec1,populacaoc1,area_em_KM2c1,PIBc1,Numero_de_pontos_turisticosc1);
+        printf("nome do estado: %s    nome da cidade: %s\n população: %d \n area em km2: %f \n seu PIB: %f\n numero de pontos turisticos: %d \n+++++++++++++++++++++++++++++\n\n",nome_do_estado,nomec1,populacaoc1,area_em_KM2c1,PIBc1,Numero_de_pontos_turisticosc1);
 
-        printf("nome do estado: %s  ----  nome da cidade: %s\n população: %d \n area em km2: %f \n seu PIB: %f\n numero de pontos turisticos: %d \n+++++++++++++++++++++++++++++\n\n",nomec2,populacaoc2,area_em_KM2c2,PIBc2,Numero_de_pontos_turisticosc2);
+        printf("nome do estado: %s    nome da cidade: %s\n população: %d \n area em km2: %f \n seu PIB: %f\n numero de pontos turisticos: %d \n+++++++++++++++++++++++++++++\n\n",nome_do_estado,nomec2,populacaoc2,area_em_KM2c2,PIBc2,Numero_de_pontos_turisticosc2);
 
-        printf("nome do estado: %s  ----  nome da cidade: %s\n população: %d \n area em km2: %f \n seu PIB: %f\n numero de pontos turisticos: %d \n+++++++++++++++++++++++++++++\n\n",nomec3,populacaoc3,area_em_KM2c3,PIBc3,Numero_de_pontos_turisticosc3);
+        printf("nome do estado: %s    nome da cidade: %s\n população: %d \n area em km2: %f \n seu PIB: %f\n numero de pontos turisticos: %d \n+++++++++++++++++++++++++++++\n\n",nome_do_estado,nomec3,populacaoc3,area_em_KM2c3,PIBc3,Numero_de_pontos_turisticosc3);
 
-        printf("nome do estado: %s  ----  nome da cidade: %s\n população: %d \n area em km2: %f \n seu PIB: %f\n numero de pontos turisticos: %d \n+++++++++++++++++++++++++++++\n\n",nomec4,populacaoc4,area_em_KM2c4,PIBc4,Numero_de_pontos_turisticosc4);
+        printf("nome do estado: %s    nome da cidade: %s\n população: %d \n area em km2: %f \n seu PIB: %f\n numero de pontos turisticos: %d \n+++++++++++++++++++++++++++++\n\n",nome_do_estado,nomec4,populacaoc4,area_em_KM2c4,PIBc4,Numero_de_pontos_turisticosc4);
 
         //finalização muda play para n para o jogad\or decidir reiniciar o loop ou não
         play='n';
